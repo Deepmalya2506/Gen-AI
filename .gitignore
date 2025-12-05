@@ -1,0 +1,4 @@
+.env
+
+#We define the environment variables in a .env file and then define them in the .gitignore file to avoid committing sensitive information.
+# This file contains environment variables that should not be committed to the repository.
